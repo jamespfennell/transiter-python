@@ -1,4 +1,8 @@
 
+Transiter was [migrated from Python to Go](https://jpfennell.com/posts/transiter-python-go/) in 2022.
+See the [Transiter repo](https://github.com/jamespfennell/transiter) for the most recent version.
+This archived repository hosts the old Python code for posterity's sake.
+
 # Transiter
 
 [![7 train in Queens, New York, United States](7-train-in-queens-new-york.jpg "Photo by Luca Bravo")](https://unsplash.com/@lucabravo)
